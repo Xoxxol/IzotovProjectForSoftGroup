@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IzotovProjectSoftGroup</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="textview_email_name"> E-mail:</string>
+    <string name="textview_password_name"> Пароль:</string>
+    <string name="button_enter_name">Войти</string>
+    <string name="button_registration_name">Регистрация</string>
+    <string name="button_zaregistration_name">Зарегистрировать</string>
+    <string name="congratulation">Поздравляем, вы вошли на нашу страницу!!!</string>
+    <string name="validEmailPassword">Название E-mail или пароль некорректны</string>
+    <string name="buttonBack">Назад</string>
+</resources>
